@@ -1,0 +1,17 @@
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.DataAccess.deps.json
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.DataAccess.runtimeconfig.json
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.DataAccess.pdb
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.Domain.dll
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\bin\Debug\net7.0\AdmissionProgrammes.Domain.pdb
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.csproj.CopyComplete
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\refint\AdmissionProgrammes.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.pdb
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\AdmissionProgrammes.DataAccess.genruntimeconfig.cache
+C:\Users\Blvke\source\repos\AdmissionProgrammes\AdmissionProgrammes.DataAccess\obj\Debug\net7.0\ref\AdmissionProgrammes.DataAccess.dll
